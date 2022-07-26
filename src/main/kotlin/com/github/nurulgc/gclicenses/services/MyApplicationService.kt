@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.nurulgc.gclicenses.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.nurulgc.gclicenses.MyBundle
 
 class MyApplicationService {
 
